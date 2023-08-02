@@ -1,6 +1,6 @@
 // Import data
 
-// Import components
+import  Searchbar from "./Seachbar.js";
 import './App.css';
 
 function App(){
